@@ -1,0 +1,41 @@
+button :hover{
+    font-size: 1.1em;
+    color: aqua;
+}
+button :active{
+    background-color: blue;
+    font-size: 1.1em;
+}
+body{
+    background-color: aliceblue;
+    background-image: url(aizen.jpg);
+    background-position: center;
+    background-attachment: fixed;
+}
+h1{
+    border-bottom: 3px inset white ;
+    text-shadow: 3px 3px 7px;
+    color: aliceblue;
+}
+h4{
+    color: white;
+    text-shadow: 3px 3px 10px;
+}
+#box1{
+    width: 90px;
+    height: 90px;
+    background-color: white;
+    box-shadow: 4px 4px 10px;
+}
+pre{
+    color: white;
+}
+hr{
+    color: white;
+}
+footer{
+    color: aliceblue;
+}
+pre :hover{
+    color: blue;
+}
